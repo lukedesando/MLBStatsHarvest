@@ -20,7 +20,7 @@ SeasonStartString = '2021-04-01'
 StatcastBatterStatsCSV = "Statcast Batter Stats.csv"
 PlayerName = 'Michael Brantley'
 
-`BatterID = Get_Player_ID(PlayerName)
+BatterID = Get_Player_ID(PlayerName)
 #print(PlayerID)
 
 #print (player_stats(PlayerID,type="career"))
